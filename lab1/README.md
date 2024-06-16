@@ -1,6 +1,6 @@
 # Реализация небольшой сети офиса
 ## Схема сети:
-![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/network.jpg)
+![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/lab1/images/network.jpg)
 ## Параметры конфигурации
 ## VPC1
 ```
