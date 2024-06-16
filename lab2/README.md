@@ -4,6 +4,6 @@
 
 ```
 docker build . -t mtu
-docker run -i -t mtu
+docker run -i -t mtu --host {адрес хоста}
 ```
 
