@@ -1,6 +1,6 @@
 # Реализация небольшой сети офиса
 ## Схема сети:
-![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/network.jpg)
+![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/lab1/images/network.jpg)
 ## Параметры конфигурации
 ## VPC1
 ```
@@ -139,21 +139,21 @@ write memory
 
 ## Validation
 ## Pings:
-![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/ping1.jpg)
-![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/ping2.jpg)
+![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/lab1/images/ping1.jpg)
+![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/lab1/images/ping2.jpg)
 ## Spanning Trees:
 
 SW1
 
-![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/treeSW1.jpg)
+![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/lab1/images/treeSW1.jpg)
 
 SW2
 
-![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/treeSW2.jpg)
+![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/lab1/images/treeSW2.jpg)
 
 SW3
 
-![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/treeSW3.jpg)
+![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/lab1/images/treeSW3.jpg)
 ## Отказоустоичивость (на SW3 отключаем Gi0/1)
 ```
 enable
@@ -167,5 +167,5 @@ exit
 
 Пинги с обоих PC
 
-![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/ping_stable1.jpg)
-![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/ping_stable2.jpg)
+![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/lab1/images/ping_stable1.jpg)
+![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/lab1/images/ping_stable2.jpg)
