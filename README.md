@@ -139,12 +139,12 @@ write memory
 
 ## Validation
 ## Pings:
-![image](https://github.com/GoldeneyeAF/networks_2024_labs/images/ping1.jpg)
-![image](https://github.com/GoldeneyeAF/networks_2024_labs/images/ping2.jpg)
+![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/ping1.jpg)
+![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/ping2.jpg)
 ## Spanning Trees:
-![image](https://github.com/GoldeneyeAF/networks_2024_labs/images/treeSW1.jpg)
-![image](https://github.com/GoldeneyeAF/networks_2024_labs/images/treeSW2.jpg)
-![image](https://github.com/GoldeneyeAF/networks_2024_labs/images/treeSW2.jpg)
+![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/treeSW1.jpg)
+![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/treeSW2.jpg)
+![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/treeSW2.jpg)
 ## Отказоустоичивость (на SW3 отключаем Gi0/1)
 ```
 enable
@@ -156,5 +156,5 @@ exit
 exit
 ```
 Пинги с обоих PC
-![image](https://github.com/GoldeneyeAF/networks_2024_labs/images/ping_stable1.jpg)
-![image](https://github.com/GoldeneyeAF/networks_2024_labs/images/ping_stable2.jpg)
+![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/ping_stable1.jpg)
+![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/ping_stable2.jpg)
