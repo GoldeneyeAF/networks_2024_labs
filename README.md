@@ -1,7 +1,7 @@
 # Реализация небольшой сети офиса
 ## Схема сети:
 ![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/network.jpg)
-##Параметры конфигурации
+## Параметры конфигурации
 ## VPC1
 ```
 VPCS> set pcname VPC1
@@ -155,6 +155,8 @@ exit
 exit
 exit
 ```
+
 Пинги с обоих PC
+
 ![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/ping_stable1.jpg)
 ![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/ping_stable2.jpg)
