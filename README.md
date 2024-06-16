@@ -142,8 +142,17 @@ write memory
 ![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/ping1.jpg)
 ![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/ping2.jpg)
 ## Spanning Trees:
+
+SW1
+
 ![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/treeSW1.jpg)
+
+SW2
+
 ![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/treeSW2.jpg)
+
+SW3
+
 ![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/treeSW2.jpg)
 ## Отказоустоичивость (на SW3 отключаем Gi0/1)
 ```
