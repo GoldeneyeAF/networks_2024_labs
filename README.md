@@ -153,7 +153,7 @@ SW2
 
 SW3
 
-![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/treeSW2.jpg)
+![image](https://github.com/GoldeneyeAF/networks_2024_labs/blob/main/images/treeSW3.jpg)
 ## Отказоустоичивость (на SW3 отключаем Gi0/1)
 ```
 enable
