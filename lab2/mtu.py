@@ -11,7 +11,7 @@ MAX_MTU = 10000
 
 def ping(mtu, hostname):
     os = platform.system().lower()
-    command = f"ping -M do -s {mtu} -c 1 {host}"
+    command = f"ping -M do -s {mtu} -c 1 {hostname}"
     if os == "darwin":
         command = f"ping -D -s {mtu} -c 1 {hostname}"
     elif os == "windows":
@@ -39,7 +39,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
     hostname = args.host
     try:
-        ipaddress.IPv4Address(socket.gethostbyname(host))
+        ipaddress.IPv4Address(socket.gethostbyname(hostname))
     except Exception:
         raise Exception("Invalid host")
     print(f"Minimal MTU for {hostname} (with header size) is: {find_mtu(hostname) + HEADER_SIZE}")
